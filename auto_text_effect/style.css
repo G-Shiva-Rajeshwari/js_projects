@@ -1,0 +1,21 @@
+
+body {
+    font-size: 48px;
+    margin: 0;
+    height: 100vh;
+    background-color: rgb(253, 187, 107);
+}
+
+h1
+{
+    
+    display: block;
+    text-align: center;
+}
+div
+{
+    font-family: 'Tangerine', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
